@@ -76,9 +76,23 @@
 
 #brownblock{
     position: fixed;
-    background-color: #842121;
-    height: 350px;
-    width: 150px;
-    right: 2;
-    transform: skew(20deg, -25deg);
+    background-color: #cd7054;
+    height: 245px;
+    width: 120px;
+    top: 270;
+    right: 550;
+    transform: skew(50deg, -15deg);
+    z-index: 0;
+}
+
+#brownblock2{
+    position: fixed;
+    background-color: #545454;
+    height: 245px;
+    width: 120px;
+    top: 270px;
+    right: 550px;
+    transform: skew(50deg, -15deg);
+    opacity: .7;
+    z-index: 0;
 }
