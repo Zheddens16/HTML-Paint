@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html>
 	<head>
 		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
@@ -12,5 +12,6 @@
 	<div id="redline5"></div>
 	<div id="greenblock"></div>
 	<div id="brownblock"></div>
+	<div id="brownblock2"></div>
 	</body>
 </html>
