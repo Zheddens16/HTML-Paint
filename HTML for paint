@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 	<head>
 		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
@@ -13,5 +13,7 @@
 	<div id="greenblock"></div>
 	<div id="brownblock"></div>
 	<div id="brownblock2"></div>
+	<div id="bigarrow"></div>
+	<div id="lay2squr"></div>
 	</body>
 </html>
