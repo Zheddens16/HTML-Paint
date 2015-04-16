@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title>Result</title>
+	</head>
+	<body>
+	<div id="redline1"></div>
+	<div id="redline2"></div>
+	<div id="redline3"></div>
+	<div id="redline4"></div>
+	<div id="redline5"></div>
+	<div id="greenblock"></div>
+	<div id="brownblock"></div>
+	</body>
+</html>
