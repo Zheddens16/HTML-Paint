@@ -82,7 +82,7 @@
     top: 270;
     right: 550;
     transform: skew(50deg, -15deg);
-    z-index: 0;
+    z-index: 1;
 }
 
 #brownblock2{
@@ -94,5 +94,30 @@
     right: 550px;
     transform: skew(50deg, -15deg);
     opacity: .7;
-    z-index: 0;
+    z-index: 1;
+}
+
+#bigarrow{
+    position: fixed;
+    width: 0; 
+	height: 0;
+	top: 270px;
+	right: 498px;
+	border-left: 40px solid transparent;
+	border-right: 40px solid transparent;
+	border-top: 260px solid #f00;
+	border-style: solid transparent;
+	transform: skew(0deg, 15deg);
+	z-index: 3;
+}
+
+#lay2squr{
+    position: fixed;
+    background-color: #cd7054;
+    height: 245px;
+    width: 120px;
+    top: 275;
+    right: 350;
+    transform: skew(-30deg, -16deg);
+    z-index: 1;
 }
