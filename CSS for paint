@@ -1,0 +1,84 @@
+*{
+    background-color: #003366;
+    z-index: 0;
+}
+
+#redline1{
+    position: fixed;
+    background-color: red;
+    height: 45px;
+    width: 450px;
+    top: 0px;
+    transform: skew(20deg, 2deg);
+    opacity: .4;
+    z-index: 1;
+}
+
+#redline2{
+    position: fixed;
+    background-color: red;
+    height: 45px;
+    width: 450px;
+    top: 50px;
+    left: 25px;
+    transform: skew(20deg, 2deg);
+    opacity: .4;
+    z-index: 1;
+}
+
+#redline3{
+    position: fixed;
+    background-color: red;
+    height: 45px;
+    width: 450px;
+    top: 100px;
+    left: 43;
+    transform: skew(20deg, 2deg);
+    opacity: .4;
+    z-index: 1;
+}
+
+#redline4{
+    position: fixed;
+    background-color: red;
+    height: 45px;
+    width: 450px;
+    top: 150px;
+    left: 61;
+    transform: skew(20deg, 2deg);
+    opacity: .4;
+    z-index: 1;
+}
+
+#redline5{
+    position: fixed;
+    background-color: red;
+    height: 45px;
+    width: 450px;
+    top: 200px;
+    left: 79;
+    transform: skew(20deg, 2deg);
+    opacity: .4;
+    z-index: 1;
+}
+
+#greenblock{
+    position: fixed;
+    background-color: green;
+    height: 1000px;
+    width: 450px;
+    right: 1200px;
+    top: 0px;
+    transform: skew(20deg, 0deg);
+    opacity: .6;
+    z-index: 1;
+}
+
+#brownblock{
+    position: fixed;
+    background-color: #842121;
+    height: 350px;
+    width: 150px;
+    right: 2;
+    transform: skew(20deg, -25deg);
+}
