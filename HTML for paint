@@ -5,14 +5,18 @@
 		<title>Result</title>
 	</head>
 	<body>
-	<div id="redline1"></div>
-	<div id="redline2"></div>
-	<div id="redline3"></div>
-	<div id="redline4"></div>
-	<div id="redline5"></div>
-	<div id="greenblock"></div>
-	<div id="greenback"></div>
-	<div id="shadow1"></div>
-	<div id="depth1"></div>
+	<div id="Background"></div>
+	<div id="lay1"></div>
+	<div id="lay2"></div>
+	<div id="lay3"></div>
+	<div id="lay4"></div>
+	<div id="lay5"></div>
+	<div id="lay6"></div>
+	<div id="lay7"></div>
+	<div id="lay8"></div>
+	<div id="vert1"></div>
+	<div id="vert2"></div>
+	<div id="vert3"></div>
+	<div id="vert4"></div>
 	</body>
 </html>
