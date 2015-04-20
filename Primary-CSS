@@ -1,0 +1,32 @@
+*{
+    background-color: #87cefa;
+}
+
+#lay1{
+    position: fixed;
+    background-color: red;
+    height: 1000px;
+    width: 100px;
+    top: 0px;
+    left: 0px;
+    z-index:2;
+}
+
+#lay2{
+    position: fixed;
+    background-color: #636363;
+    height: 400px;
+    width: 125px;
+    top: -250px;
+    left: 200px;
+    transform: skew(-60deg, 12deg);
+}
+#lay4{
+    position: fixed;
+    background-color: orange;
+    height: 400px;
+    width: 125px;
+    top: 200px;
+    left: 200px;
+    transform: skew(-60deg, 12deg);
+}
