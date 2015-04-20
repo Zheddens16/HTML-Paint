@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title>Result</title>
+	</head>
+	<body>
+	<div id="Background"></div>
+	<div id="lay1"></div>
+	<div id="lay2"></div>
+	<div id="lay4"></div>
+	</body>
+</html>
