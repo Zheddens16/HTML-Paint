@@ -37,7 +37,7 @@
 
 #lay4{
     position: fixed;
-    background-color: orange;
+    background-color: #FFA500;
     height: 425px;
     width: 125px;
     top: 57px;
@@ -125,11 +125,22 @@
 
 #vert4{
     position: fixed;
-    background-color: #97FFFF;
-    height: 400px;
+    background-color: #FFA500;
+    height: 100px;
     width: 100px;
     top: 225px;
     right: -120px;
+    transform: skew(100deg, 0deg);
+    z-index: 0;
+}
+
+#vert5{
+    position: fixed;
+    background-color: #191996;
+    height: 400px;
+    width: 100px;
+    top: 325px;
+    right: -180px;
     transform: skew(60deg, 0deg);
     z-index: 0;
 }
