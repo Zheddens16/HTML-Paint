@@ -1,5 +1,6 @@
 *{
     background-color: #87cefa;
+    z-index: -5
 }
 
 #lay1{
@@ -9,7 +10,7 @@
     width: 100px;
     top: 0px;
     left: 0px;
-    z-index:2;
+    z-index:3;
 }
 
 #lay2{
@@ -20,6 +21,7 @@
     top: -244px;
     left: 200px;
     transform: skew(-60deg, 12deg);
+    z-index:1;
 }
 
 #lay3{
@@ -30,6 +32,7 @@
     top: -145px;
     left: 200px;
     transform: skew(-60deg, 12deg);
+    z-index:1;
 }
 
 #lay4{
@@ -40,6 +43,7 @@
     top: 57px;
     left: 200px;
     transform: skew(-60deg, 12deg);
+    z-index:1;
 }
 
 #lay5{
@@ -50,6 +54,7 @@
     top: 168px;
     left: 200px;
     transform: skew(-60deg, 12deg);
+    z-index:2;
 }
 #lay6{
     position: fixed;
@@ -59,6 +64,7 @@
     top: 119px;
     left: 546px;
     transform: skew(0deg, -30deg);
+    z-index:1;
 }
 
 #lay7{
@@ -69,6 +75,7 @@
     top: 375px;
     left: 54px;
     transform: skew(600deg, -30deg);
+    z-index:2;
 }
 
 #lay8{
@@ -76,17 +83,53 @@
     background-color: #00FF00;
     height: 350px;
     width: 125px;
-    top: 467px;
+    top: 466px;
     left: 446px;
     transform: skew(-30deg, -30deg);
-    z-index: 2;
+    z-index: 1;
 }
+
+#vert1{
+    position: fixed;
+    background-color: orange;
+    height: 300px;
+    width: 125px;
+    top: 349px;
+    left: 174px;
+    transform: skew(-18deg, 0deg);
+    z-index:1;
+}
+
+#vert2{
+    position: fixed;
+    background-color: #97FFFF;
+    height: 400px;
+    width: 100px;
+    top: 225px;
+    left: 330px;
+    transform: skew(30deg, -30deg);
+    z-index: 0;
+}
+
+
 #vert3{
     position: fixed;
-    background-color: #FF0000;
-    height: 550px;
-    width: 125px;
-    top: 140px;
-    left: 560px;
-    transform: skew(0deg, -30deg);
+    background-color: #636363;
+    height: 380px;
+    width: 115px;
+    top: 190px;
+    left: 570px;
+    transform: skew(-5deg, -30deg);
+    z-index: 0;
+}
+
+#vert4{
+    position: fixed;
+    background-color: #97FFFF;
+    height: 400px;
+    width: 100px;
+    top: 225px;
+    right: -120px;
+    transform: skew(60deg, 0deg);
+    z-index: 0;
 }
