@@ -29,7 +29,7 @@
     background-color: #00FF00;
     height: 400px;
     width: 125px;
-    top: -163px;
+    top: -165px;
     left: 200px;
     transform: skew(-60deg, 12deg);
     z-index:1;
@@ -38,10 +38,10 @@
 #lay4{
     position: fixed;
     background-color: #FFA500;
-    height: 425px;
+    height: 423px;
     width: 125px;
-    top: 57px;
-    left: 200px;
+    top: 50px;
+    left: 181px;
     transform: skew(-60deg, 12deg);
     z-index:1;
 }
