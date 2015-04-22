@@ -8,6 +8,26 @@
 	<div id="Background"></div>
 	<div id="lay1"></div>
 	<div id="lay2"></div>
-	<div id="lay4"></div>
+	<div id="lay3"></div>
+	<h3 style="color: #191996" id="lay4">#lay4{
+    position: fixed;
+    background-color: #FFA500;
+    height: 425px;
+    width: 125px;
+    top: 37px;
+    left: 200px;
+    transform: skew(-60deg, 12deg);
+    z-index:1;
+}
+</h3>
+	<div id="lay5"></div>
+	<div id="lay6"></div>
+	<div id="lay7"></div>
+	<div id="lay8"></div>
+	<div id="vert1"></div>
+	<div id="vert2"></div>
+	<div id="vert3"></div>
+	<div id="vert4"></div>
+	<div id="vert5"></div>
 	</body>
 </html>
